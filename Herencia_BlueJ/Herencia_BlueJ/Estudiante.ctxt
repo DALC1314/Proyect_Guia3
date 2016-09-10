@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getCarrera()
+comment1.params=materia
+comment1.target=java.lang.String\ estudiar(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ hacerExamen()
+comment3.params=carrera
+comment3.target=void\ setCarrera(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMatricula()
+comment5.params=matricula
+comment5.target=void\ setMatricula(java.lang.String)
+numComments=6
